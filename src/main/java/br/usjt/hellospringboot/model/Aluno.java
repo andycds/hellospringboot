@@ -22,5 +22,8 @@ public class Aluno implements Serializable{
 	
 	private String nome;
 	
-	private Double mediaNotas;
+//	private Double mediaNotas;
+	private Double nota1;
+	private Double nota2;
+	private Double mediaFinal;
 }
